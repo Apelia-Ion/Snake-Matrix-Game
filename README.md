@@ -1,1 +1,1 @@
-# Snake-Matrix-Game
+# :snake: Snake-Matrix-Game :snake:
